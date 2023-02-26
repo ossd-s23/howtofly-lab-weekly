@@ -30,7 +30,7 @@ Replace the first row with your own contribution.
 | Feb 18  |  [link](https://www.openstreetmap.org/node/663086460/history) | OpenStreetMap edit  | I added the address for the Citibank on Fifth Ave and E 37th St.  |
 |Feb 18 | [link](https://www.openstreetmap.org/node/2709702129/history)  |  OpenStreetMap edit | I added a barber shop to an address including the type, hours, and phone number.  |
 | Feb 19  | [link](https://github.com/ossd-s23/Brightspace_Pdf_Viewer/issues/1)  | Team 6 broswer add-on  | I reported a broken link in the code_of_conduct.md.  |
-| Feb 19  | [link](https://github.com/cto234/group-5-extension/issues/3)   | Team 5 browser add-on  |  I suggested the group add instructions for how to install their enxtension. |
+| Feb 19  | [link](https://github.com/cto234/group-5-extension/issues/3)   | Team 5 browser add-on  |  I suggested the group add instructions for how to install their extension. |
 |Feb 19| [link](https://github.com/cto234/group-5-extension/issues/4)   |Team 5 browser add-on   | I reported that there was no issues tab in their repo on the ossd-23 organization (their repo in ossd-23 is a fork).  |
 | Feb 25  |  [link](https://github.com/ossd-s23/TabColor/pull/11) | Team 8 browser add-on  | I added code to allow the user to pick a random tab color from pre-existing colors by clicking a "Random!" button.  |
 | Feb 25  |  [link](https://github.com/ossd-s23/Jiajun-Jiao-weekly/issues/1) | Blog | I reported typos in a student's blog.  |
